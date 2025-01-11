@@ -1,7 +1,7 @@
 const sCategory = [
     {
         index: 0,
-        image: "../images/google.png",
+        image: "google.png",
         title:"Web developer",
         rate:'1.2L-1.5L/m',
         av:"Full time",
@@ -9,7 +9,7 @@ const sCategory = [
 
     {
         index: 1,
-        image: "../images/linkedin.png",
+        image: "linkedin.png",
         title:"Bussiness Associate",
         rate:'80k-1.0L/m',
         av:"Part time",
@@ -17,7 +17,7 @@ const sCategory = [
 
     {
         index: 2,
-        image: "../images/uber.png",
+        image: "uber.png",
         title:"Freelancer",
         rate:'1.5L-1.8L/m',
         av:"Full time",
@@ -25,7 +25,7 @@ const sCategory = [
 
     {
         index: 3,
-        image: "../images/yahoo.png",
+        image: "yahoo.png",
         title:"User Expert",
         rate:'1.0L-1.7L/m',
         av:"Full time",
@@ -33,7 +33,7 @@ const sCategory = [
 
     {
         index: 4,
-        image: "../images/facebook.png",
+        image: "facebook.png",
         title:"Web developer",
         rate:'1.2L-1.6L/m',
         av:"Part time",
