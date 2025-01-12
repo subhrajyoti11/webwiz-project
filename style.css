@@ -319,6 +319,35 @@ margin-left: 1rem;
   line-height: 35px;
 }
 
+footer .bottom-details{
+  width: 100%;
+  background-color:#130b39;
+  margin-top: 2rem;
+}
+
+footer .bottom-details .bottom_text{
+  max-width: 1250px;
+  margin: auto;
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bottom-details .bottom_text span, .bottom-details .bottom_text a{
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+  opacity: 0.8;
+  text-decoration: none;
+}
+.bottom-details .bottom_text a:hover{
+  opacity: 1;
+  text-decoration: underline;
+}
+
+.bottom-details .bottom_text a{
+  margin-right: 10px;
+}
 
 /* browes jobs */
 .jobs form{
@@ -513,5 +542,9 @@ color: #130b39;
 .contact-img img{
   width: 80%;
   height: auto;
+}
+  .bottom-details .bottom_text span, .bottom-details .bottom_text a{
+  font-size: 12px;
+  display: block;
 }
 }
